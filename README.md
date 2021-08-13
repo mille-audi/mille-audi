@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mille-audi
+- 👀 I’m interested in Machine Learning. 
+- 🌱 I’m currently learning Machine Learning with python
